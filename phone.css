@@ -1,0 +1,39 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+   
+}
+#navbar img{
+    margin: -28px;
+}
+
+/* home */
+#home{
+height: 545px;
+}
+
+#home h1{
+font-size: 2.2em;
+}
+#home p{
+
+}
+
+/* sercives */
+#services{
+flex-direction: column;
+}
+
+/* client */
+#client{
+overflow: hidden;
+}
+/* contact us  */
+#contac{
+
+}
+
+/* footer */
+#footer{
+
+}
